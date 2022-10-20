@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemonDestroyer</string>
+    <string name="demon">demon</string>
+    <string name="Demon_Destroyer">Demon Destroyer</string>
+    <string name="player_score">score</string>
+    <string name="playerName">name</string>
+    <string name="scores">Scores</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+</resources>
